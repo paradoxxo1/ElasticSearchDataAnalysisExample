@@ -87,10 +87,11 @@ Proje çalıştırıldıktan sonra aşağıdaki servisler aktif olacaktır:
 - **.NET API**: [http://localhost:5000](http://localhost:5000)
 
 ![50bin kayıt](https://github.com/paradoxxo1/ElasticSearchDataAnalysisExample/assets/124463263/1c3fca60-8b16-4009-adc3-0f2bd24b3ba7)
-![elastic search sonrası](https://github.com/paradoxxo1/ElasticSearchDataAnalysisExample/assets/124463263/4d5ce6c1-ed1d-4a18-8297-dc982158e6d1)
-![docker yml](https://github.com/paradoxxo1/ElasticSearchDataAnalysisExample/assets/124463263/df4320d6-dc4a-4a7f-8a68-6d196668e1b5)
 ![kibana](https://github.com/paradoxxo1/ElasticSearchDataAnalysisExample/assets/124463263/29056bca-8847-45c1-8bc9-fee6e023bd5f)
-![elastic search öncesi](https://github.com/paradoxxo1/ElasticSearchDataAnalysisExample/assets/124463263/ab91384c-337a-469a-ad18-e9d287f65751)
+![docker yml](https://github.com/paradoxxo1/ElasticSearchDataAnalysisExample/assets/124463263/df4320d6-dc4a-4a7f-8a68-6d196668e1b5)
+![elastic search öncesi](https://github.com/paradoxxo1/ElasticSearchDataAnalysisExample/assets/124463263/88e9ce52-c351-4cbc-b9a0-a3ba971d9c96)
+![elastic search sonrası](https://github.com/paradoxxo1/ElasticSearchDataAnalysisExample/assets/124463263/6be01e4c-25b8-4dd2-8300-0d63a8bf6f25)
+
 
 
 Elasticsearch ve Kibana arayüzlerine erişerek verilerinizi görüntüleyebilir ve analiz edebilirsiniz. Postman ile API uç noktalarını test ederek veri işlemlerini gerçekleştirebilirsiniz.
