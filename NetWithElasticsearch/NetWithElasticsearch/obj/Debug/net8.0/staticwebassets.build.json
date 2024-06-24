@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "NO2+gKBqZkGC8iLLGC94ffTHHarlks6tPN6vzefenNA=",
+  "Source": "NetWithElasticsearch",
+  "BasePath": "_content/NetWithElasticsearch",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

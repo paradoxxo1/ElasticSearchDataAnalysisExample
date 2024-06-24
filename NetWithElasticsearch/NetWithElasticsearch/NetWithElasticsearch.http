@@ -1,0 +1,6 @@
+@NetWithElasticsearch_HostAddress = http://localhost:5017
+
+GET {{NetWithElasticsearch_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
