@@ -4,7 +4,7 @@ Bu proje, .NET ve Elasticsearch kullanarak veri hızlandırma işlemlerini gerç
 
 ## Gereksinimler
 
-- [.NET 6 SDK](https://dotnet.microsoft.com/download/dotnet/6.0)
+- [.NET 8 SDK](https://dotnet.microsoft.com/download/dotnet/6.0)
 - [Docker](https://www.docker.com/products/docker-desktop)
 - [Postman](https://www.postman.com/downloads/)
 - [Git](https://git-scm.com/)
